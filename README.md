@@ -1,4 +1,4 @@
-#Movie Recommendation Engine Using Pure SQL
+🎬 Movie Recommendation Engine Using Pure SQL
 
 📌 Project Overview
 
@@ -7,23 +7,16 @@ This project focuses on building a movie recommendation engine using MySQL 8.0. 
 🛠️ Tools & Technologies
 
 MySQL 8.0
-
 MySQL Workbench
-
 MovieLens 100K Dataset
 
 📊 Key Features
 
 Database design using Primary and Foreign Keys
-
 Movie and rating analysis
-
 User preference analysis by genre
-
 User similarity analysis
-
 Collaborative filtering
-
 Personalized movie recommendations
 
 📂 Dataset
