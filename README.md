@@ -1,4 +1,4 @@
-🎬 Movie Recommendation Engine Using Pure SQL
+#Movie Recommendation Engine Using Pure SQL
 
 📌 Project Overview
 
